@@ -5051,6 +5051,21 @@
         }
     },
     {
+        "name": "1.20.1201.0",
+        "type": "release",
+        "guids": {
+            "x64": [
+                "8cd36a7b-2da0-4389-ad6e-06f975a336ca"
+            ],
+            "x86": [
+                "b86b013f-c611-4cca-abb3-9cf2f2b22b8e"
+            ],
+            "arm": [
+                "b513a882-a151-452b-b2ed-353a25bf0137"
+            ]
+        }
+    },
+    {
         "name": "1.20.2020.0",
         "type": "preview",
         "guids": {
