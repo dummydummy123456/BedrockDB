@@ -5056,15 +5056,18 @@
         "guids": {
             "x64": [
                 "8cd36a7b-2da0-4389-ad6e-06f975a336ca",
-                "60cad6c6-fccb-4609-9ef8-152ee87222ea"
+                "60cad6c6-fccb-4609-9ef8-152ee87222ea",
+                "dde4015f-b6f5-4a9a-8335-7d0bbf8eac9c"
             ],
             "x86": [
                 "b86b013f-c611-4cca-abb3-9cf2f2b22b8e",
-                "58564c87-79a0-4abb-9cfc-7fa64fc75291"
+                "58564c87-79a0-4abb-9cfc-7fa64fc75291",
+                "8cf1a729-c62b-46f1-87bb-e93761a4af36"
             ],
             "arm": [
                 "b513a882-a151-452b-b2ed-353a25bf0137",
-                "ad0edf4d-d27e-4cc5-8861-aa753cde8cd3"
+                "ad0edf4d-d27e-4cc5-8861-aa753cde8cd3",
+                "7841bb19-ea5f-4ece-85d4-f374a16d7553"
             ]
         }
     },
