@@ -5055,13 +5055,16 @@
         "type": "release",
         "guids": {
             "x64": [
-                "8cd36a7b-2da0-4389-ad6e-06f975a336ca"
+                "8cd36a7b-2da0-4389-ad6e-06f975a336ca",
+                "60cad6c6-fccb-4609-9ef8-152ee87222ea"
             ],
             "x86": [
-                "b86b013f-c611-4cca-abb3-9cf2f2b22b8e"
+                "b86b013f-c611-4cca-abb3-9cf2f2b22b8e",
+                "58564c87-79a0-4abb-9cfc-7fa64fc75291"
             ],
             "arm": [
-                "b513a882-a151-452b-b2ed-353a25bf0137"
+                "b513a882-a151-452b-b2ed-353a25bf0137",
+                "ad0edf4d-d27e-4cc5-8861-aa753cde8cd3"
             ]
         }
     },
