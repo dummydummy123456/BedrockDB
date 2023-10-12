@@ -5251,15 +5251,18 @@
         "guids": {
             "x64": [
                 "1160615f-ca91-45f5-b0ef-40e17c13d57f",
-                "96fc5fee-e822-41dd-a5f7-88483c69873a"
+                "96fc5fee-e822-41dd-a5f7-88483c69873a",
+                "c201b01c-27a5-4cc7-a3df-ca9a59da64cd"
             ],
             "x86": [
                 "5b5f1edc-3d44-4618-98f1-bf8671be0050",
-                "a4ec2bcc-a7ca-4777-b358-38437f1d0f61"
+                "a4ec2bcc-a7ca-4777-b358-38437f1d0f61",
+                "fdb6680b-cbb7-4f45-8cca-d7575c682b01"
             ],
             "arm": [
                 "57869653-92ed-4d03-bae6-efe106081cd4",
-                "ad3ebb95-76fc-417a-a602-4e37ff9e225c"
+                "ad3ebb95-76fc-417a-a602-4e37ff9e225c",
+                "5331f885-1a11-44a5-b216-56d9bec650ee"
             ]
         }
     },
