@@ -5273,6 +5273,21 @@
         }
     },
     {
+        "name": "1.20.4001.0",
+        "type": "release",
+        "guids": {
+            "x64": [
+                "cf4bd0ca-bcac-4b31-b09b-7973c61643d1"
+            ],
+            "x86": [
+                "54f6d6e8-7e98-4a0f-b0fe-d1b3d6253ae9"
+            ],
+            "arm": [
+                "9fc4ab5f-d73b-4e83-88d1-1433334b7cc1"
+            ]
+        }
+    },
+    {
         "name": "1.20.4020.0",
         "type": "preview",
         "guids": {
