@@ -5277,13 +5277,16 @@
         "type": "release",
         "guids": {
             "x64": [
-                "cf4bd0ca-bcac-4b31-b09b-7973c61643d1"
+                "cf4bd0ca-bcac-4b31-b09b-7973c61643d1",
+                "3ab1be2e-e416-4ba4-9911-b167cb1d87ca"
             ],
             "x86": [
-                "54f6d6e8-7e98-4a0f-b0fe-d1b3d6253ae9"
+                "54f6d6e8-7e98-4a0f-b0fe-d1b3d6253ae9",
+                "2ba0c36d-03d5-455c-afbe-35941814223d"
             ],
             "arm": [
-                "9fc4ab5f-d73b-4e83-88d1-1433334b7cc1"
+                "9fc4ab5f-d73b-4e83-88d1-1433334b7cc1",
+                "90ecabef-22d7-4889-959f-daf33be82d1a"
             ]
         }
     },
