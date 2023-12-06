@@ -5468,11 +5468,13 @@
         "guids": {
             "x64": [
                 "80351a80-b506-4cd2-8659-08c3341468fd",
-                "8a596ec6-2ef2-47b7-bed4-927bad6f5252"
+                "8a596ec6-2ef2-47b7-bed4-927bad6f5252",
+                "a5bda217-bdc8-4627-a9e5-0d4bedbee02c"
             ],
             "x86": [
                 "cbcb8476-c35c-4685-905c-8331149ab1e4",
-                "8feb08cf-cde4-4f98-aec4-f55b0d300018"
+                "8feb08cf-cde4-4f98-aec4-f55b0d300018",
+                "6c60acc4-5a3a-4cf5-8746-ea3dfe96067b"
             ],
             "arm": []
         }
