@@ -5469,13 +5469,16 @@
         "type": "release",
         "guids": {
             "x64": [
-                "58c5f0cd-09d7-4e99-a6b6-c3829fd62ac9"
+                "58c5f0cd-09d7-4e99-a6b6-c3829fd62ac9",
+                "947987d2-09d4-42de-96a4-ac87d0acfeb2"
             ],
             "x86": [
-                "4a7a57dc-5004-4446-abb7-34c59e04af5e"
+                "4a7a57dc-5004-4446-abb7-34c59e04af5e",
+                "d1400838-afc9-48c2-afa2-5d3df071482f"
             ],
             "arm": [
-                "fac1fcc2-3dd4-4266-8f60-45572aa1fd32"
+                "fac1fcc2-3dd4-4266-8f60-45572aa1fd32",
+                "8db3fdb7-b163-4172-9f95-b5fd9ba222e0"
             ]
         }
     },
