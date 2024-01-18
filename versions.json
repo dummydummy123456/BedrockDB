@@ -5572,10 +5572,12 @@
         "type": "preview",
         "guids": {
             "x64": [
-                "ddb0b769-d45f-41b3-b4f2-42f68fcfce21"
+                "ddb0b769-d45f-41b3-b4f2-42f68fcfce21",
+                "9e02cca9-e019-42aa-a1ad-9cf9f1bd9ef9"
             ],
             "x86": [
-                "aa9f12b6-3bc9-44fb-8f41-93287aa48416"
+                "aa9f12b6-3bc9-44fb-8f41-93287aa48416",
+                "8e51050d-65a7-4ac1-9564-41b9c9e6a769"
             ],
             "arm": []
         }
