@@ -5727,13 +5727,16 @@
         "type": "release",
         "guids": {
             "x64": [
-                "1ead88d5-ebff-413a-be8a-71349421129b"
+                "1ead88d5-ebff-413a-be8a-71349421129b",
+                "f0a2837f-3ecb-462d-b3d4-0cf9b903c020"
             ],
             "x86": [
-                "52e5174c-b0a4-4c74-a312-c7198cf41176"
+                "52e5174c-b0a4-4c74-a312-c7198cf41176",
+                "9878f650-d4af-499b-81aa-211f4d78487e"
             ],
             "arm": [
-                "26e7abc8-fbc3-45b2-aafd-f83c591ae991"
+                "26e7abc8-fbc3-45b2-aafd-f83c591ae991",
+                "21a42956-3a69-41ac-8cf3-6b93efbda1a4"
             ]
         }
     },
