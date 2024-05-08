@@ -5834,15 +5834,18 @@
         "guids": {
             "x64": [
                 "48f0d81e-0cc1-4e97-ab85-c9d3d24e848f",
-                "bad30c7a-75d7-4a7a-8b75-4a1d982cae61"
+                "bad30c7a-75d7-4a7a-8b75-4a1d982cae61",
+                "39b4a4c9-cd0a-49c2-971f-156aa4dbbc01"
             ],
             "x86": [
                 "77470a6f-c57d-4965-aa63-5e55710e996d",
-                "25ee6b38-0fd7-413c-87e6-db459671d0d8"
+                "25ee6b38-0fd7-413c-87e6-db459671d0d8",
+                "8ea84991-a02a-40e0-9083-97e8803adc3d"
             ],
             "arm": [
                 "e1a43007-7f87-416d-880b-bbe9a95d19d1",
-                "cba24631-cdfe-471d-a0cb-27c911868cb6"
+                "cba24631-cdfe-471d-a0cb-27c911868cb6",
+                "a8eb1b00-ba9e-48eb-a221-e8fc4a2176f1"
             ]
         }
     },
