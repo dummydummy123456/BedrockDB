@@ -6073,13 +6073,16 @@
         "type": "release",
         "guids": {
             "x64": [
-                "5eeae3dd-bf5d-4b38-aa59-6e00686ddd89"
+                "5eeae3dd-bf5d-4b38-aa59-6e00686ddd89",
+                "abec4055-f380-44ea-adb5-9798e45be0e3"
             ],
             "x86": [
-                "cb717f14-eb84-4d75-ba47-a619e0359261"
+                "cb717f14-eb84-4d75-ba47-a619e0359261",
+                "caf8ffcb-f580-407f-9b23-3680a761bcea"
             ],
             "arm": [
-                "c3b0394f-e084-4f1f-987b-474ef89b720b"
+                "c3b0394f-e084-4f1f-987b-474ef89b720b",
+                "6ff5e6e4-fdbe-4323-91a6-83d21f5a2925"
             ]
         }
     },
