@@ -6365,13 +6365,16 @@
         "type": "release",
         "guids": {
             "x64": [
-                "ff00fd54-08c1-4df8-bc64-5640112e40d8"
+                "ff00fd54-08c1-4df8-bc64-5640112e40d8",
+                "8bf13b3b-397c-4e87-a4a4-e18abb21f6f5"
             ],
             "x86": [
-                "4b95a4cd-d471-45c8-bd01-9cd448dfda94"
+                "4b95a4cd-d471-45c8-bd01-9cd448dfda94",
+                "494f9630-ef1a-46f0-bd26-ed1959fa5d03"
             ],
             "arm": [
-                "0bcc7363-6d4b-4fc3-b20e-e431ec6535de"
+                "0bcc7363-6d4b-4fc3-b20e-e431ec6535de",
+                "da3f3409-8644-4730-bfbb-ddcc07b13ba1"
             ]
         }
     },
