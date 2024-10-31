@@ -6394,6 +6394,21 @@
         }
     },
     {
+        "name": "1.21.4401.0",
+        "type": "release",
+        "guids": {
+            "x64": [
+                "7bc58f5c-adbc-4ff1-8e1a-6707c5b39d09"
+            ],
+            "x86": [
+                "872aa9cb-e1e4-469a-8de6-c875de6a2df7"
+            ],
+            "arm": [
+                "c1820c6c-25b2-4d8e-8e41-72ae754e8681"
+            ]
+        }
+    },
+    {
         "name": "1.21.5020.0",
         "type": "preview",
         "guids": {
