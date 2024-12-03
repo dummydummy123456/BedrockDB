@@ -6409,6 +6409,21 @@
         }
     },
     {
+        "name": "1.21.5007.0",
+        "type": "release",
+        "guids": {
+            "x64": [
+                "bf5c09f1-e88a-4b4c-b0bf-2faf43db7659"
+            ],
+            "x86": [
+                "ba4ff644-8e3f-405b-b0d3-8ad305f445c4"
+            ],
+            "arm": [
+                "977bc198-fb6b-4f39-8f11-a5e4c751ec6b"
+            ]
+        }
+    },
+    {
         "name": "1.21.5020.0",
         "type": "preview",
         "guids": {
