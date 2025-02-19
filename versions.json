@@ -6658,6 +6658,21 @@
         }
     },
     {
+        "name": "1.21.6101.0",
+        "type": "release",
+        "guids": {
+            "x64": [
+                "70effb62-003b-4eb7-9451-49cbfc1a7b65"
+            ],
+            "x86": [
+                "fb8d13d9-4586-40a2-b8b9-3870ceaa8af9"
+            ],
+            "arm": [
+                "d1ddc8be-2cf5-424e-a2d6-e661b48a13b1"
+            ]
+        }
+    },
+    {
         "name": "1.21.7020.0",
         "type": "preview",
         "guids": {
