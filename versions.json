@@ -6989,8 +6989,22 @@
             "arm": [
                 "6b96fbb5-756d-4c54-ab6e-3a8890619e19",
                 "bc92482e-469e-4db4-ac0a-941e09c33062",
-                "b432a62f-7582-4c98-a76e-d0fa5edba5ec"
+                "b432a62f-7582-4c98-a76e-d0fa5edba5ec",
+                "e2b9593b-da30-48d8-a237-bbbf3ce89cad"
             ]
+        }
+    },
+    {
+        "name": "1.21.9003.0",
+        "type": "release",
+        "guids": {
+            "x64": [
+                "ccb572fb-8c43-4ee9-8bba-ec16bcc78615"
+            ],
+            "x86": [
+                "cb5c0dac-7854-41f6-a7b2-1096976e560d"
+            ],
+            "arm": []
         }
     },
     {
