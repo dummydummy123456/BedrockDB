@@ -7324,10 +7324,12 @@
         "type": "preview",
         "guids": {
             "x64": [
-                "a334dabf-51c3-405d-bbeb-48c1d86f4b67"
+                "a334dabf-51c3-405d-bbeb-48c1d86f4b67",
+                "52b977d3-5370-4adf-923b-2a70c5908665"
             ],
             "x86": [
-                "c4be9efd-3144-4670-922b-b45fecd9b98a"
+                "c4be9efd-3144-4670-922b-b45fecd9b98a",
+                "09be1794-1297-47f7-86cc-51a93599e9c6"
             ],
             "arm": []
         }
